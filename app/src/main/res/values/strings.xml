@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFiPrinter</string>
+    <string name="cancel">cancel</string>
+    <string name="bt_start_print">start print</string>
+    <string name="bt_connect_printer">connect printer</string>
+    <string name="text_determine">determine</string>
+</resources>
